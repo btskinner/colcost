@@ -4,6 +4,11 @@ This is a Shiny application that allows the user to interactively view the chang
 
 [Estimating the Education-Earnings Equation Using Geographic Variation](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2639267)
 
+#### Authors
+
+[Will Doyle](https://my.vanderbilt.edu/willdoyle/)  
+[Benjamin Skinner](http://btskinner.me)
+
 ## To run locally: no file download
 
 ```R
