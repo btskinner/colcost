@@ -1,0 +1,5 @@
+# ignore shinyapps folder
+/shinyapps
+
+# ignore other flotsam
+*.Rhistory
