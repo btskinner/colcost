@@ -1,6 +1,0 @@
-load("/Users/benski/Desktop/shiny/data/weightedcost_vincenty.rda")
-ls()
-names(wcostlist)
-class(wcostlist)
-d <- wcostlist$y2012_all_popcenter
-head(d)
