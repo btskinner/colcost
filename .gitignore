@@ -1,5 +1,6 @@
 # ignore shinyapps folder
 /shinyapps
+/rsconnect
 
 # ignore other flotsam
 *.Rhistory
